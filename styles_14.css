@@ -1,0 +1,21 @@
+body {background: #222; 
+    color: #fff}
+
+    h1{color: darkolivegreen; 
+        text-align: center; 
+        font-family: initial}
+    h2{color:darkviolet;
+         text-align: center; 
+         font-weight: lighter; 
+         font-family: sans-serif}
+    h3{text-align: center;
+        color:darkorchid; 
+        font-size: 24px}
+    p{border: 2px solid Violet; 
+        margin-left: auto;
+        margin-right: auto; 
+        text-align: justify; 
+        font-size: 20px; 
+        font-style: italic; 
+        line-height: 30px}
+   
